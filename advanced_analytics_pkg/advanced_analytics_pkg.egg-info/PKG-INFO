@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: advanced_analytics_pkg
+Version: 0.1.0
+Summary: A C++ analytics extension using pybind11
+Author: Your Name
+Author-email: your@email.com
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: summary

@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+bindings.cpp
+pyproject.toml
+setup.py
+advanced_analytics_pkg.egg-info/PKG-INFO
+advanced_analytics_pkg.egg-info/SOURCES.txt
+advanced_analytics_pkg.egg-info/dependency_links.txt
+advanced_analytics_pkg.egg-info/not-zip-safe
+advanced_analytics_pkg.egg-info/top_level.txt
+include/analytics.h
+src/analytics.cpp
